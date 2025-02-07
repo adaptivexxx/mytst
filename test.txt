@@ -1,0 +1,18 @@
+GET /SME/Launch.jsp?unitName=&activeRelationship=&C01_Company_Code=9871976453&D16_Rid=1&approvalBodyofTheCustomerSystem=90086&pageId=blank&action=readonly&C02_Tax_Num=103055554&xml=blank&bankAdvisorName=&companyType=%CE%A6%CE%A0&birthDate=19741105&companyinfo=9871976453-%CE%A6%CE%A0&loanType=1&launch=1 HTTP/1.1
+Host: wccuat.nbg.gr
+Cookie: JSESSIONID=0000-et-D27CCEW00j3b4CdPYvV:-1
+Sec-Ch-Ua: "Not?A_Brand";v="99", "Chromium";v="130"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Linux"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.70 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://wccuat.nbg.gr/SME/Launch.jsp?pageId=blank&xml=blank&bankAdvisorName=&companyType=%CE%A6%CE%A0&approvalBodyofTheCustomerSystem=90086&activeRelationship=&birthDate=19741105&C01_Company_Code=9871976453&C02_Tax_Num=103055554&D16_Rid=1&&action=readonly&companyinfo=9871976453-%CE%A6%CE%A0&loanType=1
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+Connection: keep-alive
